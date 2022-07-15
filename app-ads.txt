@@ -297,3 +297,23 @@ betweendigital.com, 43092, RESELLER
 pubmatic.com, 159542, RESELLER
 appnexus.com, 8178, RESELLER
 adcolony.com, 29b7f4a14dc689eb, RESELLER
+appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
+thebrave.io, 9840732, RESELLER, c25b2154543746ac
+thebrave.io, 1234594, RESELLER, c25b2154543746ac
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+algorix.co, 60016, RESELLER, 5b394c12fea27a1d
+xandr.com, 7353, RESELLER, f5ab79cb980f11d1
+xandr.com, 13167, RESELLER, f5ab79cb980f11d1
+xandr.com, 13297, RESELLER, f5ab79cb980f11d1
+admanmedia.com, 613, RESELLER
+adelement.com, 30167, RESELLER
+Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
+Pubnative.net, 1007063, RESELLER, d641df8625486a7b
+Pubnative.net, 1003601, RESELLER, d641df8625486a7b
+adview.com, 48045325, RESELLER, 1b2cc038a11ea319
